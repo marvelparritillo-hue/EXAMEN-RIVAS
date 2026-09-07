@@ -15,4 +15,4 @@ Sitio web responsivo desarrollado como examen práctico final para la asignatura
 * GitHub Pages (Despliegue web)
 
 ## URL del Sitio Publicado
-https://mariorivas.github.io/examen-turismo-guayaquil/ *(Reemplazar con tu usuario de GitHub)*
+https://marvelparritillo-hue.github.io/EXAMEN-RIVAS/
